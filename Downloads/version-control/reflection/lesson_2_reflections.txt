@@ -19,7 +19,7 @@ organized? How would branches help?
 
 How do the diagrams help you visualize the branch structure?
 
--
+-  diagram helps to show the stucture of the branch that might not be shown in the git log alone
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
